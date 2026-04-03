@@ -82,7 +82,7 @@ StrontiumAntimonyIodideDataset.csv
 
 ## Citation
 
-If you use this dataset, please cite your associated publication or this repository.
+If you use this dataset, please cite our publication [].
 
 ---
 
