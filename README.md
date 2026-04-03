@@ -4,7 +4,7 @@ This repository contains a comprehensive simulation dataset for a **Strontium An
 
 ---
 
-## 🔢 Dataset Overview
+## Dataset Overview
 
 - **Total Samples:** 15,550  
 - **Total Features:** 12  
@@ -13,7 +13,7 @@ This repository contains a comprehensive simulation dataset for a **Strontium An
 
 ---
 
-## 📌 Input Features
+## Input Features
 
 The dataset includes key physical and electrical parameters that influence the performance of the PSC device:
 
@@ -30,7 +30,7 @@ The dataset includes key physical and electrical parameters that influence the p
 
 ---
 
-## ⚡ Output Parameters
+## Output Parameters
 
 | Parameter | Description |
 |----------|------------|
@@ -41,7 +41,7 @@ The dataset includes key physical and electrical parameters that influence the p
 
 ---
 
-## 🎯 Applications
+## Applications
 
 This dataset is suitable for:
 
@@ -53,7 +53,7 @@ This dataset is suitable for:
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 - Generated using **SCAPS-1D** simulation software  
 - Systematic variation of device parameters  
@@ -62,17 +62,17 @@ This dataset is suitable for:
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```bash
 StrontiumAntimonyIodideDataset.csv
 ```
-## 📥 Download Dataset
+## Download Dataset
 
 [Download Strontium Antimony Iodide Dataset](./StrontiumAntimonyIodideDataset.csv)
 ---
 
-## 🧪 Notes
+## Notes
 
 - Data is **simulation-based**, not experimental  
 - No missing values  
@@ -80,12 +80,12 @@ StrontiumAntimonyIodideDataset.csv
 
 ---
 
-## 📚 Citation
+## Citation
 
 If you use this dataset, please cite your associated publication or this repository.
 
 ---
 
-## 🤝 Contribution
+## Contribution
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
